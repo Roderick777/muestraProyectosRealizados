@@ -6,12 +6,20 @@ Este repositorio contiene imagenes refentes a proyecto realizados por mi persona
 
 Abajo se pueden apreciar algunas de las imagenes.
 
-<h3 class="text-primary">AFS (Analitic fishing system)</h3>
-<img src="https://github.com/Roderick777/muestraProyectosRealizados/blob/master/Afs/afs1.jpeg">
+
+
+
+
+<h3 class="text-primary">GanttRooo</h3>
+<img src="https://github.com/Roderick777/muestraProyectosRealizados/blob/master/GanttRooo/ganttrooo2.PNG">
 
 
 <h3 class="text-primary">RedCollegeWeb</h3>
 <img src="https://github.com/Roderick777/muestraProyectosRealizados/blob/master/RedcollegeWeb/redcollegeweb1.PNG">
+
+
+<h3 class="text-primary">AFS (Analitic fishing system)</h3>
+<img src="https://github.com/Roderick777/muestraProyectosRealizados/blob/master/Afs/afs1.jpeg">
 
 
 <h3 class="text-primary">RedCollegeApp</h3>
