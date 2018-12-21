@@ -1,10 +1,8 @@
+
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" />
 <style>
-  .tituloPagina{
-    font-weight: 100;
-    
-  }
+img{max-height: 500px;}
 </style>
-<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
 <h1 class="text-primary">Proyectos realizados</h1>
 
 <h3 class="text-primary">Calcula Notas</h3>
