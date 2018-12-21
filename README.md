@@ -1,9 +1,15 @@
 
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" />
-<style>
-img{max-height: 500px;}
-</style>
 <h1 class="text-primary">Proyectos realizados</h1>
+
+<h3 class="text-primary">RedCollegeApp</h3>
+<img src="https://github.com/Roderick777/muestraProyectosRealizados/blob/master/RedCollegeApp/redcollegeapp1.jpeg">
+<img src="https://github.com/Roderick777/muestraProyectosRealizados/blob/master/RedCollegeApp/redcollegeapp2.jpeg">
+<img src="https://github.com/Roderick777/muestraProyectosRealizados/blob/master/RedCollegeApp/redcollegeapp3.jpeg">
+<img src="https://github.com/Roderick777/muestraProyectosRealizados/blob/master/RedCollegeApp/redcollegeapp4.jpeg">
+<img src="https://github.com/Roderick777/muestraProyectosRealizados/blob/master/RedCollegeApp/redcollegeapp5.jpeg">
+<img src="https://github.com/Roderick777/muestraProyectosRealizados/blob/master/RedCollegeApp/redcollegeapp6.jpeg">
+<img src="https://github.com/Roderick777/muestraProyectosRealizados/blob/master/RedCollegeApp/redcollegeapp7.jpeg">
 
 <h3 class="text-primary">Calcula Notas</h3>
 <img src="https://github.com/Roderick777/muestraProyectosRealizados/blob/master/CalculaNotas/calculanotas1.jpeg">
