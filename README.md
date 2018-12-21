@@ -11,7 +11,7 @@ Abajo se pueden apreciar algunas de las imagenes.
 
 
 <h3 class="text-primary">RedCollegeWeb</h3>
-<img src="https://github.com/Roderick777/muestraProyectosRealizados/blob/master/RedCollegeWeb/redcollegeweb1.PNG">
+<img src="https://github.com/Roderick777/muestraProyectosRealizados/blob/master/RedcollegeWeb/redcollegeweb1.PNG">
 
 
 <h3 class="text-primary">RedCollegeApp</h3>
