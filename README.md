@@ -10,12 +10,12 @@ Abajo se pueden apreciar algunas de las imagenes.
 <img src="https://github.com/Roderick777/muestraProyectosRealizados/blob/master/Afs/afs1.jpeg">
 
 
+<h3 class="text-primary">RedCollegeWeb</h3>
+<img src="https://github.com/Roderick777/muestraProyectosRealizados/blob/master/RedCollegeWeb/redcollegeweb1.PNG">
+
+
 <h3 class="text-primary">RedCollegeApp</h3>
 <img src="https://github.com/Roderick777/muestraProyectosRealizados/blob/master/RedCollegeApp/redcollegeapp1.jpeg">
-
-
-<h3 class="text-primary">RedCollegeApp</h3>
-<img src="https://github.com/Roderick777/muestraProyectosRealizados/blob/master/RedCollegeWeb/redcollegeweb1.jpeg">
 
 
 <h3 class="text-primary">Calcula Notas</h3>
